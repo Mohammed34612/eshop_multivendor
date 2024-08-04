@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919271127861",
+    "firebase_url": "https://eshop-18689-default-rtdb.firebaseio.com",
+    "project_id": "eshop-18689",
+    "storage_bucket": "eshop-18689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919271127861:android:2d6f9b57cc3974e3312a7c",
+        "android_client_info": {
+          "package_name": "com.alsheikh.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919271127861-omrgl3ob52i9bk8lp4s0vhig3880dupa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86yj-bZs6o27AqRIjgwXAh1hrXjb2bvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919271127861-omrgl3ob52i9bk8lp4s0vhig3880dupa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

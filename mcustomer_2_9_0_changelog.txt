@@ -1,0 +1,84 @@
+M       android/app/build.gradle
+M       android/build.gradle
+M       android/settings.gradle
+M       assets/images/svg/introimage_a.svg
+M       assets/images/svg/introimage_b.svg
+M       assets/images/svg/introimage_c.svg
+M       assets/images/svg/phonepe.svg
+M       ios/Podfile.lock
+M       ios/Runner.xcodeproj/project.pbxproj
+M       ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+M       ios/Runner/Info.plist
+M       lib/Helper/ApiBaseHelper.dart
+M       lib/Helper/Constant.dart
+M       lib/Helper/String.dart
+M       lib/Language/ar.json
+M       lib/Language/de.json
+M       lib/Language/en.json
+M       lib/Language/es.json
+M       lib/Language/fr.json
+M       lib/Language/hi.json
+M       lib/Language/ja.json
+M       lib/Language/ru.json
+M       lib/Language/zh.json
+M       lib/Model/Order_Model.dart
+M       lib/Model/Section_Model.dart
+A       lib/Model/appSettingsModel.dart
+M       lib/Provider/Search/SearchProvider.dart
+M       lib/Provider/SettingProvider.dart
+M       lib/Provider/authenticationProvider.dart
+M       lib/Provider/chatProvider.dart
+M       lib/Provider/homePageProvider.dart
+D       lib/Provider/productPrevciewProvider.dart
+M       lib/Provider/pushNotificationProvider.dart
+M       lib/Provider/writeReviewProvider.dart
+M       lib/Screen/AddAddress/Add_Address.dart
+M       lib/Screen/Auth/Login.dart
+M       lib/Screen/Auth/SendOtp.dart
+M       lib/Screen/Auth/SignInUpAcc.dart
+M       lib/Screen/Auth/SignUp.dart
+M       lib/Screen/Auth/Verify_Otp.dart
+M       lib/Screen/Cart/Cart.dart
+D       lib/Screen/Cart/Widget/InstamojoPayment.dart.zip
+M       lib/Screen/Cart/Widget/bankTransferContentWidget.dart
+M       lib/Screen/Cart/Widget/paymentWidget.dart
+M       lib/Screen/Cart/Widget/setAddress.dart
+M       lib/Screen/Dashboard/Dashboard.dart
+M       lib/Screen/ExploreSection/explore.dart
+M       lib/Screen/IntroSlider/Intro_Slider.dart
+M       lib/Screen/Manage Address/Manage_Address.dart
+M       lib/Screen/Map/Map.dart
+M       lib/Screen/My Wallet/Widgets/myWalletDialog.dart
+M       lib/Screen/OrderDetail/Widget/OrderSubDetails.dart
+M       lib/Screen/Payment/Payment.dart
+M       lib/Screen/Product Detail/Widget/productExtraDetail.dart
+A       lib/Screen/Product Detail/Widget/reviewList.dart
+M       lib/Screen/Product Detail/Widget/reviewStar.dart
+M       lib/Screen/Product Detail/Widget/reviewUI.dart
+M       lib/Screen/Product Detail/productDetail.dart
+M       lib/Screen/ProductList&SectionView/ProductList.dart
+M       lib/Screen/ProductList&SectionView/SectionList.dart
+M       lib/Screen/ProductPreview/productPreview.dart
+M       lib/Screen/Profile/widgets/editProfileBottomSheet.dart
+M       lib/Screen/Profile/widgets/languageBottomSheet.dart
+M       lib/Screen/Search/Search.dart
+M       lib/Screen/Search/Widget/SuggestionsList.dart
+M       lib/Screen/SellerDetail/Seller_Details.dart
+M       lib/Screen/SellerDetail/Widget/listViewLayOut.dart
+M       lib/Screen/SplashScreen/Splash.dart
+M       lib/Screen/WebView/PaypalWebviewActivity.dart
+M       lib/Screen/WebView/instamojo_webview.dart
+M       lib/Screen/converstationListScreen.dart
+M       lib/Screen/converstationScreen.dart
+M       lib/Screen/homePage/widgets/section.dart
+A       lib/cubits/appSettingsCubit.dart
+M       lib/cubits/sendMessageCubit.dart
+M       lib/main.dart
+M       lib/repository/Order/OrderRepository.dart
+M       lib/repository/authRepository.dart
+M       lib/repository/userRepository.dart
+M       lib/widgets/errorContainer.dart
+M       lib/widgets/security.dart
+M       lib/widgets/systemChromeSettings.dart
+M       pubspec.lock
+M       pubspec.yaml
